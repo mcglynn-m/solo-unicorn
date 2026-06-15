@@ -104,7 +104,7 @@ export default function Home() {
                 Free Be Found in AI Snapshot
                 <ArrowRightIcon className="w-5 h-5 ml-2" />
               </a>
-              <a href="/resume" className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-slate-700 dark:text-slate-200 bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-700 rounded-xl transition-all">
+              <a href="#about" className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-slate-700 dark:text-slate-200 bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700 border border-slate-200 dark:border-slate-700 rounded-xl transition-all">
                 See My Experience
               </a>
             </div>
