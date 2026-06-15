@@ -95,7 +95,7 @@ export default function Home() {
 
             {/* Title/Specialty */}
             <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-4 font-medium tracking-wide">
-              AI visibility: Be Known, Be Understood, Be Recommended
+              Boost AI Visibility: <span className="italic">Be Known, Be Understood, Be Recommended</span>
             </p>
 
             {/* CTA Buttons */}
