@@ -98,11 +98,6 @@ export default function Home() {
               AI Visibility and Marketing Strategy for Growing SMBs
             </p>
 
-            {/* Tagline */}
-            <p className="text-lg text-slate-500 dark:text-slate-400 mb-8 max-w-2xl mx-auto">
-              I help tech and bioscience companies understand how they appear in AI-generated answers, identify why competitors are being surfaced instead, and improve the content and credibility signals that influence AI discovery.
-            </p>
-
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold text-white bg-blue-600 hover:bg-blue-700 rounded-xl transition-all shadow-lg shadow-blue-500/25 hover:shadow-blue-500/40">
