@@ -94,7 +94,7 @@ export default function Home() {
             </h1>
 
             {/* Title/Specialty */}
-            <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-4 font-medium uppercase tracking-wide">
+            <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-4 font-medium tracking-wide">
               Be Known, Be Understood, Be Recommended by AI
             </p>
 
